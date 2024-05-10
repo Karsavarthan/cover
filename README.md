@@ -160,7 +160,8 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 ![EX 6](https://github.com/Karsavarthan/cover/assets/139841970/8ea8bca8-9daf-4b34-b2cd-9546e43c650e)
-![EX 6](https://github.com/Karsavarthan/cover/assets/139841970/82c67d1f-1d31-44c2-a5fa-85502bc5aa83)
+![image](https://github.com/Karsavarthan/cover/assets/139841970/006e423e-7cd3-4531-9dd9-088340bd370d)
+
 
 
 ## RESULT:
